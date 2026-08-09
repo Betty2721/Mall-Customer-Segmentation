@@ -1,0 +1,17 @@
+K-MEANS CLUSTERING ANALYSIS REPORT
+
+Dataset: Mall Customer Segmentation
+Number of customers: 200
+Optimal clusters: 5
+
+PERFORMANCE METRICS:
+- Silhouette Score: 0.5547
+- Calinski-Harabasz Index: 248.65
+- Davies-Bouldin Index: 0.5722
+
+CLUSTER SIZES:
+- Cluster 0: 81 customers (40.5%)
+- Cluster 1: 39 customers (19.5%)
+- Cluster 2: 22 customers (11.0%)
+- Cluster 3: 35 customers (17.5%)
+- Cluster 4: 23 customers (11.5%)
